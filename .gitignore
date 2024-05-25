@@ -1,0 +1,3 @@
+# ignore all directories with the name test
+test/bats
+test/test_helper
